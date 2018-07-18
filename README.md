@@ -4,7 +4,7 @@
 
 To get started, we will first create a new React application using the Create React App CLI.
 
-> If you do not already have Creeate React App installed, install it now with the following command:
+> If you do not already have Create React App installed, install it now with the following command:
 
 ```
 npm install -g create-react-app
